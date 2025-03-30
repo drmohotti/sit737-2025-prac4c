@@ -1,0 +1,103 @@
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=a&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for addition","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /divide?num1=5&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /divide?num1=8&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /divide?num1=f&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for division","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /divide?num1=8&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /exponentiate?base=2&exponent=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /exponentiate?base=8&exponent=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /exponentiate?base=d&exponent=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for exponentiation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num=25 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num=30 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num=88 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num=b from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameter for square root","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num=9 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num=c from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameter for square root","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?dividend=10&divisor=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?dividend=3&divisor=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?dividend=100&divisor=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?dividend=100&divisor=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?dividend=100&divisor=2 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /quareroot?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num1=40&num2=a from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameter for square root","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num1=40&num2=2 from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameter for square root","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /squareroot?num1=40&num2=2 from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameter for square root","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modul?num1=40&num2=2 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=40&num2=2 from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for modulo operation","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=40&num2=2 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=40&num2=b from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for addition","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /subtract?num1=10&num2=4 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /multiply?num1=7&num2=2 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /divide?num1=20&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=a&num2=b from ::1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for addition","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /subtract?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /multiply?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Server is running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /power?base=2&exponent=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /sqrt?num=16 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Square Root: sqrt(16) = 4","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /modulo?num1=10&num2=3 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calculator-microservice"}
